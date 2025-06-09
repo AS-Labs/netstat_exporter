@@ -1,0 +1,9 @@
+# A list of ports to filter for.
+# A connection will be shown if its source OR destination port matches any port in this list.
+# If this list is commented out or empty, this filter is ignored.
+##### ports = [443, 8080]
+
+# A list of specific IP:Port combinations to filter for.
+# A connection will be shown if its source OR destination endpoint matches any in this list.
+# If this list is commented out or empty, this filter is ignored.
+endpoints = ["34.107.243.93:443"]

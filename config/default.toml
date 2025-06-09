@@ -1,0 +1,8 @@
+# Netstat Exporter Configuration (Rust)
+# Use empty strings or omit keys for no filter.
+# source_ip = "127.0.0.1"
+# source_port = 8080
+# destination_ip = ""
+# destination_port = 
+
+source_ip =  "127.0.0.1"
